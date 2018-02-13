@@ -1,0 +1,76 @@
+.focus circle {
+  fill: #F1F3F3;
+  stroke: #6F257F;
+  stroke-width: 5px;
+}
+
+.info
+{
+	color: green;
+	font-style: bold;
+	
+
+}
+#myname
+{
+	font-size: 2em;
+}
+#subjectname
+{
+	font-style: italic;
+}
+#assgnmentno
+{
+	color: red;
+	
+}
+
+     select
+{
+padding: 10px; 
+border-radius: 12px;
+width: 15%
+}
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+label
+{
+   padding-right: 68px;
+}
+#inputlabel
+{
+   padding-right: 45px;
+}
+
+button
+{
+
+   border-radius: 5px;
+   fill: grey
+}
+
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.land {
+  fill: #222FFF;
+}
+
+.boundary {
+  fill: none;
+  stroke: #f0f;
+  stroke-width: .5px;
+}
+ 
