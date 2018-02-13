@@ -1,0 +1,44 @@
+.info
+{
+	color: green;
+	font-style: bold;
+	
+
+}
+#myname
+{
+	font-size: 2em;
+}
+#subjectname
+{
+	font-style: italic;
+}
+#assgnmentno
+{
+	color: red;
+	
+}
+
+     select
+{
+padding: 10px; 
+border-radius: 12px;
+width: 15%
+}
+
+label
+{
+   padding-right: 68px;
+}
+#inputlabel
+{
+   padding-right: 45px;
+}
+
+button
+{
+
+   border-radius: 5px;
+   fill: grey
+}
+ 

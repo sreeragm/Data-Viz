@@ -1,0 +1,50 @@
+.info
+{
+	color: green;
+	font-style: bold;
+	
+
+}
+#myname
+{
+	font-size: 2em;
+}
+#subjectname
+{
+	font-style: italic;
+}
+#assgnmentno
+{
+	color: red;
+	
+}
+
+#inputlabel
+{
+padding-right: 10px;
+width: 15%	
+}
+
+#barchart
+{
+	padding: 10px;
+}
+
+label
+{
+	font-size: 1.2em;
+}
+
+#inputtext
+{
+padding: 10px;	
+border-radius: 12px;
+width: 15%
+}
+
+#getTotalsValue
+{
+	border-radius: 10px;
+}
+
+
