@@ -1,0 +1,45 @@
+var squadValue=[{"name" : "HUL",{"defence" : 3160 ,"midfield" : 36,00,"attack" : 41,50}
+{"name" : "LCFC",{"defence" : 24,80 ,"midfield" : 57,00 ,"attack" : 108,00}
+{"name" : "SFC",{"defence" : 68,75 ,"midfield" : 42,00,"attack" : 74,00}
+{"name" : "Watfordfc",{"defence" : 33,50 ,"midfield" : 45,00,"attack" : 43,00}
+{"name" : "MId",{"defence" : 30,25,"midfield" : 29,00,"attack" : 36,00 }
+{"name" : "SCFC",{"defence" : 41,50 ,"midfield" : 64,75 ,"attack" : 77,75}
+{"name" : "EFC",{"defence" : 58,60 ,"midfield" : 80,00 ,"attack" : 106,50}
+{"name" : "THFC",{"defence" : 117,50 ,"midfield" : 158,00 ,"attack" : 123,00} 
+{"name" : "CRY",{"defence" : 57,00 ,"midfield" : 35,50 ,"attack" : 79,50}
+{"name" : "WBA",{"defence" : 36,00,"midfield" : 21,00,"attack" : 48,50}
+{"name" : "BFC",{"defence" : 20,25,"midfield" : 35,50,"attack" : 18,50}
+{"name" : "SWA",{"defence" : 27,50 ,"midfield" : 47,00 ,"attack" : 40,35} 
+{"name" : "MCFC",{"defence" : 12200,"midfield" : 18100,"attack" : 20800}
+{"name" : "SUN",{"defence" : 31,50 ,"midfield" : 26,75,"attack" : 34,25}
+{"name" : "AFCB",{"defence" : 26,50 ,"midfield" : 32,00 ,"attack" : 51,00} 
+{"name" : "MUFC",{"defence" : 140,00,"midfield" : 198,00,"attack" : 83,00}
+{"name" : "AFC",{"defence" : 12450,"midfield" : 23700,"attack" : 15700}
+{"name" : "LFC",{"defence" : 74,50 ,"midfield" : 159,00 ,"attack" : 119,50}
+{"name" : "CFC",{"defence" : 12750,"midfield" : 11900,"attack" : 21900}
+{"name" : "WHU",{"defence" : 53,45 ,"midfield" : 46,50 ,"attack" : 99,00}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 

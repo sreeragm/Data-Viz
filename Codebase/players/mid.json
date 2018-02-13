@@ -1,0 +1,229 @@
+{
+_links: {
+self: {
+href: "http://api.football-data.org/v1/teams/343/players"
+},
+team: {
+href: "http://api.football-data.org/v1/teams/343"
+}
+},
+count: 24,
+players: [
+{
+name: "Gastón Ramírez",
+position: "Attacking Midfield",
+jerseyNumber: 21,
+dateOfBirth: "1990-12-02",
+nationality: "Uruguay",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Víctor Valdés",
+position: "Keeper",
+jerseyNumber: 26,
+dateOfBirth: "1982-01-14",
+nationality: "Spain",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Brad Guzan",
+position: "Keeper",
+jerseyNumber: 12,
+dateOfBirth: "1984-09-09",
+nationality: "United States",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Dimitrios Konstantopoulos",
+position: "Keeper",
+jerseyNumber: 1,
+dateOfBirth: "1978-11-29",
+nationality: "Greece",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Ben Gibson",
+position: "Centre-Back",
+jerseyNumber: 6,
+dateOfBirth: "1993-01-15",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Bernardo Espinosa",
+position: "Centre-Back",
+jerseyNumber: 5,
+dateOfBirth: "1989-07-11",
+nationality: "Colombia",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Daniel Ayala",
+position: "Centre-Back",
+jerseyNumber: 4,
+dateOfBirth: "1990-11-07",
+nationality: "Spain",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Dael Fry",
+position: "Centre-Back",
+jerseyNumber: 22,
+dateOfBirth: "1997-08-30",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Fábio",
+position: "Left-Back",
+jerseyNumber: 2,
+dateOfBirth: "1990-07-09",
+nationality: "Brazil",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "George Friend",
+position: "Left-Back",
+jerseyNumber: 3,
+dateOfBirth: "1987-10-19",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "James Husband",
+position: "Left-Back",
+jerseyNumber: 40,
+dateOfBirth: "1994-01-03",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Calum Chambers",
+position: "Right-Back",
+jerseyNumber: 25,
+dateOfBirth: "1995-01-20",
+nationality: "England",
+contractUntil: "2017-05-31",
+marketValue: null
+},
+{
+name: "Antonio Barragán",
+position: "Right-Back",
+jerseyNumber: 17,
+dateOfBirth: "1987-06-12",
+nationality: "Spain",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Marten de Roon",
+position: "Central Midfield",
+jerseyNumber: 14,
+dateOfBirth: "1991-03-29",
+nationality: "Netherlands",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Adam Clayton",
+position: "Central Midfield",
+jerseyNumber: 8,
+dateOfBirth: "1989-01-14",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Adam Forshaw",
+position: "Central Midfield",
+jerseyNumber: 34,
+dateOfBirth: "1991-10-08",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Grant Leadbitter",
+position: "Central Midfield",
+jerseyNumber: 7,
+dateOfBirth: "1986-01-07",
+nationality: "England",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Adlène Guédioura",
+position: "Central Midfield",
+jerseyNumber: 27,
+dateOfBirth: "1985-11-12",
+nationality: "Algeria",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Stewart Downing",
+position: "Left Midfield",
+jerseyNumber: 19,
+dateOfBirth: "1984-07-22",
+nationality: "England",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Viktor Fischer",
+position: "Left Wing",
+jerseyNumber: 11,
+dateOfBirth: "1994-06-09",
+nationality: "Denmark",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Álvaro Negredo",
+position: "Centre-Forward",
+jerseyNumber: 10,
+dateOfBirth: "1985-08-20",
+nationality: "Spain",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Rudy Gestede",
+position: "Centre-Forward",
+jerseyNumber: 29,
+dateOfBirth: "1988-10-10",
+nationality: "Benin",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Patrick Bamford",
+position: "Centre-Forward",
+jerseyNumber: 20,
+dateOfBirth: "1993-09-05",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Cristhian Stuani",
+position: "Centre-Forward",
+jerseyNumber: 18,
+dateOfBirth: "1986-10-12",
+nationality: "Uruguay",
+contractUntil: "2019-06-30",
+marketValue: null
+}
+]
+}

@@ -1,0 +1,247 @@
+{
+_links: {
+self: {
+href: "http://api.football-data.org/v1/teams/322/players"
+},
+team: {
+href: "http://api.football-data.org/v1/teams/322"
+}
+},
+count: 26,
+players: [
+{
+name: "Allan McGregor",
+position: "Keeper",
+jerseyNumber: 1,
+dateOfBirth: "1982-01-31",
+nationality: "Scotland",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Eldin Jakupovic",
+position: "Keeper",
+jerseyNumber: 16,
+dateOfBirth: "1984-10-02",
+nationality: "Switzerland",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Steve Harper",
+position: "Keeper",
+jerseyNumber: 22,
+dateOfBirth: "1975-03-14",
+nationality: "England",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Mark Oxley",
+position: "Keeper",
+jerseyNumber: null,
+dateOfBirth: "1990-06-02",
+nationality: "England",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Rory Watson",
+position: "Keeper",
+jerseyNumber: null,
+dateOfBirth: "1996-02-05",
+nationality: "England",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Michael Dawson",
+position: "Centre-Back",
+jerseyNumber: 21,
+dateOfBirth: "1983-11-18",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Curtis Davies",
+position: "Centre-Back",
+jerseyNumber: 6,
+dateOfBirth: "1985-03-15",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Paul McShane",
+position: "Centre-Back",
+jerseyNumber: 15,
+dateOfBirth: "1986-01-06",
+nationality: "Ireland",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Alex Bruce",
+position: "Centre-Back",
+jerseyNumber: 4,
+dateOfBirth: "1984-09-28",
+nationality: "Northern Ireland",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Harry Maguire",
+position: "Centre-Back",
+jerseyNumber: null,
+dateOfBirth: "1993-03-05",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Maynor Figueroa",
+position: "Left-Back",
+jerseyNumber: 3,
+dateOfBirth: "1983-05-02",
+nationality: "Honduras",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Andrew Robertson",
+position: "Left-Back",
+jerseyNumber: 26,
+dateOfBirth: "1994-03-11",
+nationality: "Scotland",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Joe Dudgeon",
+position: "Left-Back",
+jerseyNumber: 19,
+dateOfBirth: "1990-11-26",
+nationality: "Northern Ireland",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Conor Townsend",
+position: "Left-Back",
+jerseyNumber: null,
+dateOfBirth: "1993-03-04",
+nationality: "England",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Liam Rosenior",
+position: "Right-Back",
+jerseyNumber: 2,
+dateOfBirth: "1984-07-09",
+nationality: "England",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Tom Huddlestone",
+position: "Defensive Midfield",
+jerseyNumber: 8,
+dateOfBirth: "1986-12-28",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "David Meyler",
+position: "Central Midfield",
+jerseyNumber: 7,
+dateOfBirth: "1989-05-29",
+nationality: "Ireland",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Stephen Quinn",
+position: "Central Midfield",
+jerseyNumber: 29,
+dateOfBirth: "1986-04-01",
+nationality: "Ireland",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Ahmed Elmohamady",
+position: "Right Midfield",
+jerseyNumber: 27,
+dateOfBirth: "1987-09-09",
+nationality: "Egypt",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Tom Ince",
+position: "Right Wing",
+jerseyNumber: null,
+dateOfBirth: "1992-01-30",
+nationality: "England",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Calaum Jahraldo-Martin",
+position: "Right Wing",
+jerseyNumber: null,
+dateOfBirth: "1993-04-27",
+nationality: "Antigua and Barbuda",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Sone Aluko",
+position: "Secondary Striker",
+jerseyNumber: 24,
+dateOfBirth: "1989-02-19",
+nationality: "Nigeria",
+contractUntil: null,
+marketValue: null
+},
+{
+name: "Dame N'Doye",
+position: "Centre-Forward",
+jerseyNumber: 28,
+dateOfBirth: "1985-02-21",
+nationality: "Senegal",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Nikica Jelavic",
+position: "Centre-Forward",
+jerseyNumber: 18,
+dateOfBirth: "1985-08-27",
+nationality: "Croatia",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Abel Hernández",
+position: "Centre-Forward",
+jerseyNumber: 9,
+dateOfBirth: "1990-08-08",
+nationality: "Uruguay",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Yannick Sagbo",
+position: "Centre-Forward",
+jerseyNumber: 20,
+dateOfBirth: "1988-04-12",
+nationality: "Cote d'Ivoire",
+contractUntil: null,
+marketValue: null
+}
+]
+}

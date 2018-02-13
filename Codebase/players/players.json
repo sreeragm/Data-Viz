@@ -1,0 +1,256 @@
+{
+_links: {
+self: {
+href: "http://api.football-data.org/v1/teams/72/players"
+},
+team: {
+href: "http://api.football-data.org/v1/teams/72"
+}
+},
+count: 27,
+players: [
+{
+name: "Lukasz Fabianski",
+position: "Keeper",
+jerseyNumber: 1,
+dateOfBirth: "1985-04-18",
+nationality: "Poland",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Kristoffer Nordfeldt",
+position: "Keeper",
+jerseyNumber: 13,
+dateOfBirth: "1989-06-23",
+nationality: "Sweden",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Mark Birighitti",
+position: "Keeper",
+jerseyNumber: 19,
+dateOfBirth: "1991-04-17",
+nationality: "Australia",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Gerhard Tremmel",
+position: "Keeper",
+jerseyNumber: 25,
+dateOfBirth: "1978-11-16",
+nationality: "Germany",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Federico Fernández",
+position: "Centre-Back",
+jerseyNumber: 33,
+dateOfBirth: "1989-02-21",
+nationality: "Argentina",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Alfie Mawson",
+position: "Centre-Back",
+jerseyNumber: 6,
+dateOfBirth: "1994-01-19",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Jordi Amat",
+position: "Centre-Back",
+jerseyNumber: 2,
+dateOfBirth: "1992-03-21",
+nationality: "Spain",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Mike van der Hoorn",
+position: "Centre-Back",
+jerseyNumber: 5,
+dateOfBirth: "1992-10-31",
+nationality: "Netherlands",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Martin Olsson",
+position: "Left-Back",
+jerseyNumber: 16,
+dateOfBirth: "1988-05-17",
+nationality: "Sweden",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Stephen Kingsley",
+position: "Left-Back",
+jerseyNumber: 35,
+dateOfBirth: "1994-07-23",
+nationality: "Scotland",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Kyle Naughton",
+position: "Right-Back",
+jerseyNumber: 26,
+dateOfBirth: "1988-11-11",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Ángel Rangel",
+position: "Right-Back",
+jerseyNumber: 22,
+dateOfBirth: "1982-10-28",
+nationality: "Spain",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Sung-Yong Ki",
+position: "Defensive Midfield",
+jerseyNumber: 4,
+dateOfBirth: "1989-01-24",
+nationality: "Korea, South",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Jack Cork",
+position: "Defensive Midfield",
+jerseyNumber: 24,
+dateOfBirth: "1989-06-25",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Tom Carroll",
+position: "Central Midfield",
+jerseyNumber: 42,
+dateOfBirth: "1992-05-28",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Leon Britton",
+position: "Central Midfield",
+jerseyNumber: 7,
+dateOfBirth: "1982-09-16",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Jay Fulton",
+position: "Central Midfield",
+jerseyNumber: 56,
+dateOfBirth: "1994-04-04",
+nationality: "Scotland",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Gylfi Sigurdsson",
+position: "Attacking Midfield",
+jerseyNumber: 23,
+dateOfBirth: "1989-09-08",
+nationality: "Iceland",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Jefferson Montero",
+position: "Left Wing",
+jerseyNumber: 20,
+dateOfBirth: "1989-09-01",
+nationality: "Ecuador",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Wayne Routledge",
+position: "Left Wing",
+jerseyNumber: 15,
+dateOfBirth: "1985-01-07",
+nationality: "England",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Kenji Gorré",
+position: "Left Wing",
+jerseyNumber: 46,
+dateOfBirth: "1994-09-29",
+nationality: "Curacao",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Luciano Narsingh",
+position: "Right Wing",
+jerseyNumber: 28,
+dateOfBirth: "1990-09-13",
+nationality: "Netherlands",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Nathan Dyer",
+position: "Right Wing",
+jerseyNumber: 12,
+dateOfBirth: "1987-11-29",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Borja Bastón",
+position: "Centre-Forward",
+jerseyNumber: 10,
+dateOfBirth: "1992-08-25",
+nationality: "Spain",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Jordan Ayew",
+position: "Centre-Forward",
+jerseyNumber: 3,
+dateOfBirth: "1991-09-11",
+nationality: "Ghana",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Fernando Llorente",
+position: "Centre-Forward",
+jerseyNumber: 9,
+dateOfBirth: "1985-02-26",
+nationality: "Spain",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Oliver McBurnie",
+position: "Centre-Forward",
+jerseyNumber: 62,
+dateOfBirth: "1996-06-04",
+nationality: "Scotland",
+contractUntil: "2018-06-30",
+marketValue: null
+}
+]
+}

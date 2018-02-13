@@ -1,0 +1,229 @@
+{
+_links: {
+self: {
+href: "http://api.football-data.org/v1/teams/73/players"
+},
+team: {
+href: "http://api.football-data.org/v1/teams/73"
+}
+},
+count: 24,
+players: [
+{
+name: "Hugo Lloris",
+position: "Keeper",
+jerseyNumber: 1,
+dateOfBirth: "1986-12-26",
+nationality: "France",
+contractUntil: "2022-06-30",
+marketValue: null
+},
+{
+name: "Michel Vorm",
+position: "Keeper",
+jerseyNumber: 13,
+dateOfBirth: "1983-10-20",
+nationality: "Netherlands",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Pau López",
+position: "Keeper",
+jerseyNumber: 30,
+dateOfBirth: "1994-12-13",
+nationality: "Spain",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Toby Alderweireld",
+position: "Centre-Back",
+jerseyNumber: 4,
+dateOfBirth: "1989-03-02",
+nationality: "Belgium",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Jan Vertonghen",
+position: "Centre-Back",
+jerseyNumber: 5,
+dateOfBirth: "1987-04-24",
+nationality: "Belgium",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Kevin Wimmer",
+position: "Centre-Back",
+jerseyNumber: 27,
+dateOfBirth: "1992-11-15",
+nationality: "Austria",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Cameron Carter-Vickers",
+position: "Centre-Back",
+jerseyNumber: 38,
+dateOfBirth: "1997-12-31",
+nationality: "United States",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Danny Rose",
+position: "Left-Back",
+jerseyNumber: 3,
+dateOfBirth: "1990-07-02",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Ben Davies",
+position: "Left-Back",
+jerseyNumber: 33,
+dateOfBirth: "1993-04-24",
+nationality: "Wales",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Kyle Walker",
+position: "Right-Back",
+jerseyNumber: 2,
+dateOfBirth: "1990-05-28",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Kieran Trippier",
+position: "Right-Back",
+jerseyNumber: 16,
+dateOfBirth: "1990-09-19",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Eric Dier",
+position: "Defensive Midfield",
+jerseyNumber: 15,
+dateOfBirth: "1994-01-15",
+nationality: "England",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Victor Wanyama",
+position: "Defensive Midfield",
+jerseyNumber: 12,
+dateOfBirth: "1991-06-25",
+nationality: "Kenya",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Dele Alli",
+position: "Central Midfield",
+jerseyNumber: 20,
+dateOfBirth: "1996-04-11",
+nationality: "England",
+contractUntil: "2022-06-30",
+marketValue: null
+},
+{
+name: "Moussa Sissoko",
+position: "Central Midfield",
+jerseyNumber: 17,
+dateOfBirth: "1989-08-16",
+nationality: "France",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Mousa Dembélé",
+position: "Central Midfield",
+jerseyNumber: 19,
+dateOfBirth: "1987-07-16",
+nationality: "Belgium",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Harry Winks",
+position: "Central Midfield",
+jerseyNumber: 29,
+dateOfBirth: "1996-02-02",
+nationality: "England",
+contractUntil: "2022-06-30",
+marketValue: null
+},
+{
+name: "Christian Eriksen",
+position: "Attacking Midfield",
+jerseyNumber: 23,
+dateOfBirth: "1992-02-14",
+nationality: "Denmark",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Josh Onomah",
+position: "Attacking Midfield",
+jerseyNumber: 25,
+dateOfBirth: "1997-04-27",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Heung-Min Son",
+position: "Left Wing",
+jerseyNumber: 7,
+dateOfBirth: "1992-07-08",
+nationality: "Korea, South",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Georges-Kevin N'Koudou",
+position: "Left Wing",
+jerseyNumber: 14,
+dateOfBirth: "1995-02-13",
+nationality: "France",
+contractUntil: "2021-06-30",
+marketValue: null
+},
+{
+name: "Érik Lamela",
+position: "Right Wing",
+jerseyNumber: 11,
+dateOfBirth: "1992-03-04",
+nationality: "Argentina",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Harry Kane",
+position: "Centre-Forward",
+jerseyNumber: 10,
+dateOfBirth: "1993-07-28",
+nationality: "England",
+contractUntil: "2022-06-30",
+marketValue: null
+},
+{
+name: "Vincent Janssen",
+position: "Centre-Forward",
+jerseyNumber: 9,
+dateOfBirth: "1994-06-15",
+nationality: "Netherlands",
+contractUntil: "2020-06-30",
+marketValue: null
+}
+]
+}

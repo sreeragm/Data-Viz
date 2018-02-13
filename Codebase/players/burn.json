@@ -1,0 +1,211 @@
+{
+_links: {
+self: {
+href: "http://api.football-data.org/v1/teams/328/players"
+},
+team: {
+href: "http://api.football-data.org/v1/teams/328"
+}
+},
+count: 22,
+players: [
+{
+name: "George Boyd",
+position: "Right Midfield",
+jerseyNumber: 21,
+dateOfBirth: "1985-10-02",
+nationality: "Scotland",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Robbie Brady",
+position: "Left Midfield",
+jerseyNumber: 12,
+dateOfBirth: "1992-01-14",
+nationality: "Ireland",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Tom Heaton",
+position: "Keeper",
+jerseyNumber: 1,
+dateOfBirth: "1986-04-15",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Nick Pope",
+position: "Keeper",
+jerseyNumber: 29,
+dateOfBirth: "1992-04-19",
+nationality: "England",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Paul Robinson",
+position: "Keeper",
+jerseyNumber: 17,
+dateOfBirth: "1979-10-15",
+nationality: "England",
+contractUntil: "2017-06-30",
+marketValue: null
+},
+{
+name: "Michael Keane",
+position: "Centre-Back",
+jerseyNumber: 5,
+dateOfBirth: "1993-01-11",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "James Tarkowski",
+position: "Centre-Back",
+jerseyNumber: 26,
+dateOfBirth: "1992-11-19",
+nationality: "England",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Kevin Long",
+position: "Centre-Back",
+jerseyNumber: 28,
+dateOfBirth: "1990-08-18",
+nationality: "Ireland",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Ben Mee",
+position: "Left-Back",
+jerseyNumber: 6,
+dateOfBirth: "1989-09-21",
+nationality: "England",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Stephen Ward",
+position: "Left-Back",
+jerseyNumber: 23,
+dateOfBirth: "1985-08-20",
+nationality: "Ireland",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Jon Flanagan",
+position: "Right-Back",
+jerseyNumber: 4,
+dateOfBirth: "1993-01-01",
+nationality: "England",
+contractUntil: "2017-05-31",
+marketValue: null
+},
+{
+name: "Matthew Lowton",
+position: "Right-Back",
+jerseyNumber: 2,
+dateOfBirth: "1989-06-09",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Tendayi Darikwa",
+position: "Right-Back",
+jerseyNumber: 27,
+dateOfBirth: "1991-12-13",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Ashley Westwood",
+position: "Defensive Midfield",
+jerseyNumber: 18,
+dateOfBirth: "1990-04-01",
+nationality: "England",
+contractUntil: "2020-06-30",
+marketValue: null
+},
+{
+name: "Jeff Hendrick",
+position: "Central Midfield",
+jerseyNumber: 13,
+dateOfBirth: "1992-01-31",
+nationality: "Ireland",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Steven Defour",
+position: "Central Midfield",
+jerseyNumber: 16,
+dateOfBirth: "1988-04-15",
+nationality: "Belgium",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Dean Marney",
+position: "Central Midfield",
+jerseyNumber: 8,
+dateOfBirth: "1984-01-31",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Scott Arfield",
+position: "Left Midfield",
+jerseyNumber: 37,
+dateOfBirth: "1988-11-01",
+nationality: "Canada",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Johann Berg Gudmundsson",
+position: "Right Wing",
+jerseyNumber: 25,
+dateOfBirth: "1990-10-27",
+nationality: "Iceland",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Andre Gray",
+position: "Centre-Forward",
+jerseyNumber: 7,
+dateOfBirth: "1991-06-26",
+nationality: "England",
+contractUntil: "2018-06-30",
+marketValue: null
+},
+{
+name: "Sam Vokes",
+position: "Centre-Forward",
+jerseyNumber: 9,
+dateOfBirth: "1989-10-21",
+nationality: "Wales",
+contractUntil: "2019-06-30",
+marketValue: null
+},
+{
+name: "Ashley Barnes",
+position: "Centre-Forward",
+jerseyNumber: 10,
+dateOfBirth: "1989-10-30",
+nationality: "England",
+contractUntil: "2019-06-30",
+marketValue: null
+}
+]
+}
